@@ -1,1 +1,0 @@
-# EdytorGraficzny---laby
