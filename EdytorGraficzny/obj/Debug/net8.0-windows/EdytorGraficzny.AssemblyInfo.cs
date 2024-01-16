@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EdytorGraficzny")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b5fa6764b3a5c6d9c149dc703f916d97a773e08")]
 [assembly: System.Reflection.AssemblyProductAttribute("EdytorGraficzny")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EdytorGraficzny")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
